@@ -1,0 +1,14 @@
+# Uploaded resumes (keep the folder, ignore contents)
+uploads/resumes/*
+!uploads/resumes/.gitkeep
+
+# Runtime storage
+storage/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+config.bat
+node_modules
